@@ -24,3 +24,7 @@ Current working command is for development. For staging and build would be relea
 npm run dev
 ```
 After then the app will automaticaly opening browser and run at [http://localhost:8000](http://localhost:8000)
+
+## Reference
+
+[link](https://medium.com/js-dojo/how-to-configure-webpack-4-with-vuejs-a-complete-guide-209e943c4772)
